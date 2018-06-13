@@ -11,3 +11,9 @@ requirement pycaffe
 * AlexNet fine-tuned on PETA except PRID
 * AlexNet fine-tuned on full PETA dataset
 
+## Usage
+To extract features, 
+
+```
+python extract_features.py
+```
