@@ -19,3 +19,22 @@ And then run the following command.
 ```
 python extract_features.py
 ```
+
+## Extracted features.
+* [Extracted features on Market-1501](http://www.i.kyushu-u.ac.jp/~matsukawa/ReID_files/features_FTCNN_Market.zip)
+* [Extracted features on Duke](http://www.i.kyushu-u.ac.jp/~matsukawa/ReID_files/features_FTCNN_Duke.zip)
+
+
+## Reference
+Please cite the following [ICPR2016 paper](http://www.i.kyushu-u.ac.jp/~matsukawa/ReID_files/icpr2016.pdf).
+
+```
+@inproceedings{Matsukawa16b,
+  author={Matsukawa, Tetsu and Suzuki, Einoshin},
+  title={Person Re-Identification Using {CNN} Features Learned from Combination of Attributes},
+  booktitle={{International Conference on Pattern Recognition (ICPR)}},
+  pages={2429--2343}, 
+  year={2016},
+}
+
+```
